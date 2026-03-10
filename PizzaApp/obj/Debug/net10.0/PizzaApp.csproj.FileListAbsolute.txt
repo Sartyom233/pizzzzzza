@@ -1,0 +1,14 @@
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\obj\Debug\net10.0\PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\obj\Debug\net10.0\PizzaApp.AssemblyInfoInputs.cache
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\obj\Debug\net10.0\PizzaApp.AssemblyInfo.cs
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\obj\Debug\net10.0\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\bin\Debug\net10.0\PizzaApp.exe
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\bin\Debug\net10.0\PizzaApp.deps.json
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\bin\Debug\net10.0\PizzaApp.runtimeconfig.json
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\bin\Debug\net10.0\PizzaApp.dll
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\bin\Debug\net10.0\PizzaApp.pdb
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\obj\Debug\net10.0\PizzaApp.dll
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\obj\Debug\net10.0\refint\PizzaApp.dll
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\obj\Debug\net10.0\PizzaApp.pdb
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\obj\Debug\net10.0\PizzaApp.genruntimeconfig.cache
+C:\Users\artyo\OneDrive\Рабочий стол\PizzaApp\obj\Debug\net10.0\ref\PizzaApp.dll
