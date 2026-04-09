@@ -1,0 +1,14 @@
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\bin\Debug\net10.0\BeverageApp.exe
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\bin\Debug\net10.0\BeverageApp.deps.json
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\bin\Debug\net10.0\BeverageApp.runtimeconfig.json
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\bin\Debug\net10.0\BeverageApp.dll
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\bin\Debug\net10.0\BeverageApp.pdb
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\obj\Debug\net10.0\BeverageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\obj\Debug\net10.0\BeverageApp.AssemblyInfoInputs.cache
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\obj\Debug\net10.0\BeverageApp.AssemblyInfo.cs
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\obj\Debug\net10.0\BeverageApp.csproj.CoreCompileInputs.cache
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\obj\Debug\net10.0\BeverageApp.dll
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\obj\Debug\net10.0\refint\BeverageApp.dll
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\obj\Debug\net10.0\BeverageApp.pdb
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\obj\Debug\net10.0\BeverageApp.genruntimeconfig.cache
+C:\Users\artyo\OneDrive\Рабочий стол\coffee_99\cofegod\BeverageApp\obj\Debug\net10.0\ref\BeverageApp.dll
